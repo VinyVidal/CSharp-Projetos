@@ -1,0 +1,9 @@
+C:\Users\UserPadrão\Documents\Linguagem C#\Gerador de Senhas\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe.config
+C:\Users\UserPadrão\Documents\Linguagem C#\Gerador de Senhas\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe
+C:\Users\UserPadrão\Documents\Linguagem C#\Gerador de Senhas\Gerador de Senhas\bin\Debug\Gerador de Senhas.pdb
+C:\Users\UserPadrão\Documents\Linguagem C#\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Form1.resources
+C:\Users\UserPadrão\Documents\Linguagem C#\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Properties.Resources.resources
+C:\Users\UserPadrão\Documents\Linguagem C#\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.GenerateResource.Cache
+C:\Users\UserPadrão\Documents\Linguagem C#\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador de Senhas.exe
+C:\Users\UserPadrão\Documents\Linguagem C#\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador de Senhas.pdb
+C:\Users\UserPadrão\Documents\Linguagem C#\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador de Senhas.csprojResolveAssemblyReference.cache
