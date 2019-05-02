@@ -1,0 +1,9 @@
+C:\Users\UserPadrão\Documents\Linguagem C#\ProgramarDesligamento\ProgramarDesligamento\bin\Release\ProgramarDesligamento.exe.config
+C:\Users\UserPadrão\Documents\Linguagem C#\ProgramarDesligamento\ProgramarDesligamento\bin\Release\ProgramarDesligamento.exe
+C:\Users\UserPadrão\Documents\Linguagem C#\ProgramarDesligamento\ProgramarDesligamento\bin\Release\ProgramarDesligamento.pdb
+C:\Users\UserPadrão\Documents\Linguagem C#\ProgramarDesligamento\ProgramarDesligamento\obj\Release\ProgramarDesligamento.frmPrincipal.resources
+C:\Users\UserPadrão\Documents\Linguagem C#\ProgramarDesligamento\ProgramarDesligamento\obj\Release\ProgramarDesligamento.Properties.Resources.resources
+C:\Users\UserPadrão\Documents\Linguagem C#\ProgramarDesligamento\ProgramarDesligamento\obj\Release\ProgramarDesligamento.TimeUpDown.resources
+C:\Users\UserPadrão\Documents\Linguagem C#\ProgramarDesligamento\ProgramarDesligamento\obj\Release\ProgramarDesligamento.csproj.GenerateResource.Cache
+C:\Users\UserPadrão\Documents\Linguagem C#\ProgramarDesligamento\ProgramarDesligamento\obj\Release\ProgramarDesligamento.exe
+C:\Users\UserPadrão\Documents\Linguagem C#\ProgramarDesligamento\ProgramarDesligamento\obj\Release\ProgramarDesligamento.pdb
