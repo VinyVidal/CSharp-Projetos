@@ -5,5 +5,5 @@
   
     ****** PASSWORD GENERATOR ******
   
-  An application that creates a random sequence of numbers and/or characters to be uses as password.
-  Turned out to be a very useful program for me, as am always using it to create my passwords.
+  An application that creates a random sequence of numbers and/or characters to be used as password.
+  Turned out to be a very useful program for me, since I'm always using it to create my passwords.
