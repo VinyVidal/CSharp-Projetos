@@ -1,0 +1,9 @@
+C:\Users\UserPadrão\Documents\Linguagem C#\CadastroClientesProcedure\CadastroClientesProcedure\bin\Debug\CadastroClientesProcedure.exe.config
+C:\Users\UserPadrão\Documents\Linguagem C#\CadastroClientesProcedure\CadastroClientesProcedure\obj\Debug\CadastroClientesProcedure.Form1.resources
+C:\Users\UserPadrão\Documents\Linguagem C#\CadastroClientesProcedure\CadastroClientesProcedure\obj\Debug\CadastroClientesProcedure.Properties.Resources.resources
+C:\Users\UserPadrão\Documents\Linguagem C#\CadastroClientesProcedure\CadastroClientesProcedure\obj\Debug\CadastroClientesProcedure.csproj.GenerateResource.Cache
+C:\Users\UserPadrão\Documents\Linguagem C#\CadastroClientesProcedure\CadastroClientesProcedure\bin\Debug\CadastroClientesProcedure.exe
+C:\Users\UserPadrão\Documents\Linguagem C#\CadastroClientesProcedure\CadastroClientesProcedure\bin\Debug\CadastroClientesProcedure.pdb
+C:\Users\UserPadrão\Documents\Linguagem C#\CadastroClientesProcedure\CadastroClientesProcedure\obj\Debug\CadastroClientesProcedure.exe
+C:\Users\UserPadrão\Documents\Linguagem C#\CadastroClientesProcedure\CadastroClientesProcedure\obj\Debug\CadastroClientesProcedure.pdb
+C:\Users\UserPadrão\Documents\Linguagem C#\CadastroClientesProcedure\CadastroClientesProcedure\obj\Debug\CadastroClientesProcedure.csprojResolveAssemblyReference.cache
