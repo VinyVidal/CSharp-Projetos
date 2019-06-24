@@ -7,6 +7,8 @@ Para rodar o programa, crie o banco de dados usando o arquivo .sql na pasta do p
 
 Talvez seja necessário rodar tanto o Visual Studio quanto o Sql Server Management Studio como administrador.
 
+-------------------------------
+
 ****** CUSTOMER REGISTRATION PROCEDURE ******
 
 A Project that uses a Sql Server Database to peform customers' registration, query, edit and exclusion. I used Stored Procedures to make each of those CRUD actions.
