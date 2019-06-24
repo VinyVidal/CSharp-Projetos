@@ -1,3 +1,5 @@
+  ![alt text](https://raw.githubusercontent.com/VinyVidal/CSharp-Projetos/master/Gerador%20de%20Senhas/screenshot.JPG)
+  
   ****** GERADOR DE SENHAS ******
   
   Aplicação que gera uma sequencia aleatória de números e/ou caracteres para serem usados como senha.
